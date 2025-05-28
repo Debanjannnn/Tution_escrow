@@ -16,8 +16,8 @@ The Tuition Escrow contract provides a secure way to handle tuition payments bet
 - Event logging for all important transactions
 
 # contract address
-- https://edu-chain-testnet.blockscout.com/token/0xbD4CE12E41E04A50D6304Fc093977fFfB9A9F9e0
--https://edu-chain-testnet.blockscout.com/address/0x6121cC9DD5AF612f97adA5E93aE0A0b49eE0D12E
+- https://edu-chain-testnet.blockscout.com/token/0x9E61854E7202eC8DA2973b15577dA930c98eD6a0
+-https://edu-chain-testnet.blockscout.com/address/0xaEeb5901Df2072E72301d09998063Db9c59d8bcd
 
 ## Contract Functions
 
