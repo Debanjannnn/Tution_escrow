@@ -42,8 +42,11 @@ npm install
 # Run tests
 npx hardhat test
 
+# Set your private ket
+hardhat.config
+
 # Deploy to testnet
-npx hardhat ignition deploy ./ignition/modules/TuitionEscrow.js
+npx hardhat run .\scripts\deploy.js --network  educhainTestnet 
 ```
 
 ## Security
